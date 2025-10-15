@@ -35,9 +35,9 @@ handling instructions, operands, labels, and data with proper encoding.
 ## 📝 Usage
 
 I provided a complete **MAKEFILE** to help you compile the assembler.
-Just go ahead and run the program, you will be fully guided and instucted and the proper usage!
+Just go ahead and run the program, you will be fully guided and instructed!
 
 ## 🌟 Acknowledgements
 
-This is the final project (Maman 14) for the Systems Programming Laboratory course at the Open University of Israel
+This is the final project (Maman 14) for the Systems Programming Laboratory course at the Open University of Israel.
 
